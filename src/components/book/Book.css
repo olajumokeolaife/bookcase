@@ -1,0 +1,45 @@
+.add-book{
+  padding: 15px 0;
+  /* border-bottom: 1px solid #ddd; */
+  margin-bottom: 5px;
+  p{
+    margin: 5px 0;
+  }
+}
+
+.add-book:last-child{
+  border-bottom: none;
+}
+
+.add-book h2{
+  margin: 0;
+  font-size: 1.5em;
+}
+
+.add-book button{
+  background-color: plum;
+  border: none;
+  padding: 10px 15px;
+  margin-left: 10px;
+  border-radius: 8px;
+  font-size: 16px;
+  font-weight: 700;
+  color: white;
+  cursor: pointer;
+  
+}
+
+
+
+.add-book span{
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.book-description{
+  font-size: 24px;
+  color:black;
+  /* margin-bottom: 12px; */
+  line-height: 1.5;
+  
+}
